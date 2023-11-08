@@ -1,0 +1,14 @@
+
+body{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: blueviolet;}
+
+ #primero {width: 600px;
+    height: 370px;
+ background-color: blanchebackground: rgb(18,193,214);
+ background: linear-gradient(90deg, rgba(18,193,214,0.9144136235955056) 0%, rgba(164,72,190,1) 67%, rgba(32,173,201,1) 100%);dalmond;
+ }
+
+ #segundo { width: 600px;
+    height: 370px;
+     background-image: url(../Img/Image20231027204335.jpg);
+ }
